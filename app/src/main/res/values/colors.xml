@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="fundo">#2b3330</color>
+    <color name="inseriTexto">#355047</color>
+    <color name="botoes">#01faa3</color>
+
+</resources>
