@@ -4,6 +4,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="fundo">#2b3330</color>
     <color name="inseriTexto">#355047</color>
-    <color name="botoes">#01faa3</color>
+    <color name="botao">#01faa3</color>
 
 </resources>
