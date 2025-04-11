@@ -62,9 +62,9 @@
         />
 
     <Button
+        android:id="@+id/bt_acessarEmail"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/acessarEmail"
         android:text="Acessar"
         android:textColor="@color/black"
         android:textSize="30sp"
@@ -85,7 +85,7 @@
         android:textSize="20sp"
         android:textStyle="italic"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/acessarEmail"
+        app:layout_constraintTop_toBottomOf="@id/bt_acessarEmail"
         android:layout_marginLeft="60dp"
         android:layout_marginTop="70dp"/>
 
@@ -97,7 +97,7 @@
         android:textSize="20sp"
         android:textStyle="italic"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/acessarEmail"
+        app:layout_constraintTop_toBottomOf="@id/bt_acessarEmail"
         android:layout_marginRight="60dp"
         android:layout_marginTop="70dp"/>
 
